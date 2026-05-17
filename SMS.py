@@ -4,7 +4,7 @@
 
 ==============================
 
-#NUMÉRO DU CIBLE DEV A-FBI 
+#NUMÉRO 
 
 target_number = "+509xxxxxxxx"
 sauvegarder_sms("+509xxxxxxxx", "Ton message ici", target_number)
